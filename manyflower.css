@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+    padding: 0;font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: aquamarine;
+}
+/* First main container box in css*/
+.box11{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+.box12{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box13{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box14{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box11:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box12:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box13:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box14:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 9px;
+    border: 0.5px solid rgb(0, 0, 0);
+    box-shadow: 1px 2px 6px 8px rgb(228, 228, 228);
+}
+img:hover{
+    border: 0.5px solid rgb(0, 0, 0);
+    box-shadow: 1px 2px 6px 4px rgb(161, 156, 156);    
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(129, 0, 0);
+    color: aliceblue;   
+    font-family: serif;
+    text-decoration: '';
+}
+button:hover{
+    background-color: rgb(229, 229, 213);
+    color: rgb(255, 0, 0);
+}
+
+
+
+/* second(2) main container box in css*/
+
+.main_container2{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box21{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+.box22{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box23{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box24{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box21:hover{
+    background-color: rgba(197, 197, 197, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box22:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box23:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box24:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+/* .box2{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+} */
+
+/* third main container box in css*/
+
+.main_container3{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box3{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+.box31{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+.box32{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box33{
+    margin-top: 10px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box34{
+    margin-top: 10px;
+    margin-bottom:15px;
+    width: 265px;
+    height: 310px;
+    margin-left: 25px;
+    border: 1.2px solid rgb(118, 118, 118);
+    box-shadow: 1px 2px 3px 4px  #ffffff;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(219, 219, 219, 0.92);
+}
+
+.box31:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box32:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box33:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+.box34:hover{
+    background-color: rgba(219, 219, 219, 0.92);
+    box-shadow: 1px 2px 6px 4px  #e8e6e6;
+}
+/* 
+.main_container3{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box3{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+/* fourth main container box in css*/
+/* .main_container4{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box4{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+} */
+
+/* fivft main container box in css
+.main_container5{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box5{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+/* six main container box in css
+.main_container6{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box6{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+/* seven main container box in css
+.main_container7{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box7{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+/* eight main container box in css
+.main_container8{
+    width: 100%;
+    height: 100%;
+    background-color: #e5eef2;
+}
+
+.box8{
+    width: 100%;
+    height: 280px;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+} */
